@@ -37,3 +37,8 @@ npm test
   "home": [11.33, 29.37, 7.26, 12.28, 10.85, 18.79],
   "unknown": [52.36, 27.36, 81.33, 15.44, 43.45, 47.52]
 }
+
+This project is for Vue.js and D3.js.
+Necessary packages and modules are not supported at this moment.
+So please use this project for referencing project structure.
+Thanks.
